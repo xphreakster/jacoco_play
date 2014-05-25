@@ -1,4 +1,4 @@
-package com.xphreak.service;
+package com.xphreak;
 
 /**
  * Hello world!

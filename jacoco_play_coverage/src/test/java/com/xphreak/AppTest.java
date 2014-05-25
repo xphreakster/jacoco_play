@@ -1,4 +1,4 @@
-package com.xphreak.service;
+package com.xphreak;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
